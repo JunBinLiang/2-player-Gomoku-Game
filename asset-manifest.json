@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JunBinLiang/Gomoku-Game/static/css/main.b72d26ac.chunk.css",
-    "main.js": "/JunBinLiang/Gomoku-Game/static/js/main.10c99495.chunk.js",
-    "main.js.map": "/JunBinLiang/Gomoku-Game/static/js/main.10c99495.chunk.js.map",
-    "runtime~main.js": "/JunBinLiang/Gomoku-Game/static/js/runtime~main.b1e7fcc6.js",
-    "runtime~main.js.map": "/JunBinLiang/Gomoku-Game/static/js/runtime~main.b1e7fcc6.js.map",
-    "static/js/2.44361bd4.chunk.js": "/JunBinLiang/Gomoku-Game/static/js/2.44361bd4.chunk.js",
-    "static/js/2.44361bd4.chunk.js.map": "/JunBinLiang/Gomoku-Game/static/js/2.44361bd4.chunk.js.map",
-    "index.html": "/JunBinLiang/Gomoku-Game/index.html",
-    "precache-manifest.d839e91ed1d14f35e1371b3183c087f6.js": "/JunBinLiang/Gomoku-Game/precache-manifest.d839e91ed1d14f35e1371b3183c087f6.js",
-    "service-worker.js": "/JunBinLiang/Gomoku-Game/service-worker.js",
-    "static/css/main.b72d26ac.chunk.css.map": "/JunBinLiang/Gomoku-Game/static/css/main.b72d26ac.chunk.css.map",
-    "static/media/logo.svg": "/JunBinLiang/Gomoku-Game/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Gomoku-Game/static/css/main.b72d26ac.chunk.css",
+    "main.js": "/Gomoku-Game/static/js/main.dc9f28c4.chunk.js",
+    "main.js.map": "/Gomoku-Game/static/js/main.dc9f28c4.chunk.js.map",
+    "runtime~main.js": "/Gomoku-Game/static/js/runtime~main.c7adb01b.js",
+    "runtime~main.js.map": "/Gomoku-Game/static/js/runtime~main.c7adb01b.js.map",
+    "static/js/2.44361bd4.chunk.js": "/Gomoku-Game/static/js/2.44361bd4.chunk.js",
+    "static/js/2.44361bd4.chunk.js.map": "/Gomoku-Game/static/js/2.44361bd4.chunk.js.map",
+    "index.html": "/Gomoku-Game/index.html",
+    "precache-manifest.d6fb722ef1ec5872e7932c6fc3d09106.js": "/Gomoku-Game/precache-manifest.d6fb722ef1ec5872e7932c6fc3d09106.js",
+    "service-worker.js": "/Gomoku-Game/service-worker.js",
+    "static/css/main.b72d26ac.chunk.css.map": "/Gomoku-Game/static/css/main.b72d26ac.chunk.css.map",
+    "static/media/logo.svg": "/Gomoku-Game/static/media/logo.5d5d9eef.svg"
   }
 }
