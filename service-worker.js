@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/2-player-Gomoku-Game/precache-manifest.34d8c5a3fdddaf659af24fb4a9fec717.js"
+  "/2-player-Gomoku-Game/precache-manifest.4e58c9ab364400c8bb900cfa1378ce07.js"
 );
 
 self.addEventListener('message', (event) => {

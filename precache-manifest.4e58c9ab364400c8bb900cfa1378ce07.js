@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa741e865c38142c289eb13954563ecb",
+    "revision": "da5ead3f4196515f8df30f7eb7a7edc2",
     "url": "/2-player-Gomoku-Game/index.html"
   },
   {
-    "revision": "75e714d0830333db5b5d",
+    "revision": "8a7aab15eb6d5b0c0ddb",
     "url": "/2-player-Gomoku-Game/static/css/main.b72d26ac.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2-player-Gomoku-Game/static/js/2.44361bd4.chunk.js"
   },
   {
-    "revision": "75e714d0830333db5b5d",
-    "url": "/2-player-Gomoku-Game/static/js/main.0b790e94.chunk.js"
+    "revision": "8a7aab15eb6d5b0c0ddb",
+    "url": "/2-player-Gomoku-Game/static/js/main.09d63a70.chunk.js"
   },
   {
     "revision": "979d4d4f58601ccad91d",
