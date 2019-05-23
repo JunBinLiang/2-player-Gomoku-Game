@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JunBinLiang/player-machine-gomokuGame/static/css/main.b72d26ac.chunk.css",
-    "main.js": "/JunBinLiang/player-machine-gomokuGame/static/js/main.8f0b0b2b.chunk.js",
-    "main.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/main.8f0b0b2b.chunk.js.map",
-    "runtime~main.js": "/JunBinLiang/player-machine-gomokuGame/static/js/runtime~main.521d4663.js",
-    "runtime~main.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/runtime~main.521d4663.js.map",
-    "static/js/2.44361bd4.chunk.js": "/JunBinLiang/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js",
-    "static/js/2.44361bd4.chunk.js.map": "/JunBinLiang/player-machine-gomokuGame/static/js/2.44361bd4.chunk.js.map",
-    "index.html": "/JunBinLiang/player-machine-gomokuGame/index.html",
-    "precache-manifest.ee8c8e922cfaa5da299629349e363cfe.js": "/JunBinLiang/player-machine-gomokuGame/precache-manifest.ee8c8e922cfaa5da299629349e363cfe.js",
-    "service-worker.js": "/JunBinLiang/player-machine-gomokuGame/service-worker.js",
-    "static/css/main.b72d26ac.chunk.css.map": "/JunBinLiang/player-machine-gomokuGame/static/css/main.b72d26ac.chunk.css.map",
-    "static/media/logo.svg": "/JunBinLiang/player-machine-gomokuGame/static/media/logo.5d5d9eef.svg"
+    "main.css": "/2-player-Gomoku-Game/static/css/main.b72d26ac.chunk.css",
+    "main.js": "/2-player-Gomoku-Game/static/js/main.09d63a70.chunk.js",
+    "main.js.map": "/2-player-Gomoku-Game/static/js/main.09d63a70.chunk.js.map",
+    "runtime~main.js": "/2-player-Gomoku-Game/static/js/runtime~main.1516b14c.js",
+    "runtime~main.js.map": "/2-player-Gomoku-Game/static/js/runtime~main.1516b14c.js.map",
+    "static/js/2.44361bd4.chunk.js": "/2-player-Gomoku-Game/static/js/2.44361bd4.chunk.js",
+    "static/js/2.44361bd4.chunk.js.map": "/2-player-Gomoku-Game/static/js/2.44361bd4.chunk.js.map",
+    "index.html": "/2-player-Gomoku-Game/index.html",
+    "precache-manifest.4e58c9ab364400c8bb900cfa1378ce07.js": "/2-player-Gomoku-Game/precache-manifest.4e58c9ab364400c8bb900cfa1378ce07.js",
+    "service-worker.js": "/2-player-Gomoku-Game/service-worker.js",
+    "static/css/main.b72d26ac.chunk.css.map": "/2-player-Gomoku-Game/static/css/main.b72d26ac.chunk.css.map",
+    "static/media/logo.svg": "/2-player-Gomoku-Game/static/media/logo.5d5d9eef.svg"
   }
 }
